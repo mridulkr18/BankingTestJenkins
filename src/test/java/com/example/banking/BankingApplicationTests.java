@@ -10,7 +10,7 @@ class BankingApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 }
